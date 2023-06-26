@@ -1,1 +1,1 @@
-const str: string = "foobar" 
+// const str: string = "foobar" 
