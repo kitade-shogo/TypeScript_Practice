@@ -3,5 +3,5 @@
 
 // console.log(val1, val2);
 
-const n: null = null;
-const u: undefined = undefined;
+// const n: null = null;
+// const u: undefined = undefined;
